@@ -1,0 +1,1237 @@
+[
+  {
+	"msg" :       "access-log",
+	"duration" :  3.1414131009951234,
+	"path" :      "/enterprise/geopolitical/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.142",
+	"user" :      {
+	  "id" :   "712910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517628,
+	"req_id" :    "wv-ent-req-id-d188eaaa-270e-4501-aa85-492f4b8eea2c",
+	"trace_id" :  "wv-ent-trace-id-0fd2488c-5466-4b7c-9542-6f2ca76eab68"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.978107886039652,
+	"path" :      "/enterprise/geopolitical/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.70",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517630,
+	"req_id" :    "wv-ent-req-id-fc0d18ee-42d8-40fc-a418-045f09a137bf",
+	"trace_id" :  "wv-ent-trace-id-9a0eb425-3ab4-4f5d-91fa-1559cbe72417"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.3234390770085156,
+	"path" :      "/enterprise/geopolitical/search/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.70",
+	"user" :      {
+	  "id" :   "712910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517633,
+	"req_id" :    "wv-ent-req-id-e0d6dcc0-9d90-4ba5-8784-c7daf3c44f6d",
+	"trace_id" :  "wv-ent-trace-id-0ca4e5c4-0762-4f4d-a13c-9426cfadce76"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.0206829900853336,
+	"path" :      "/enterprise/geopolitical/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.142",
+	"user" :      {
+	  "id" :   "712910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517633,
+	"req_id" :    "wv-ent-req-id-cfa9cb73-c350-49fb-a500-0eca06f9e084",
+	"trace_id" :  "wv-ent-trace-id-995936f7-3064-4567-b7b6-a5b1b73c40cd"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.284783708048053,
+	"path" :      "/enterprise/geopolitical/search/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.142",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517635,
+	"req_id" :    "wv-ent-req-id-c1abab63-6bba-4c7f-a577-08bee60b116e",
+	"trace_id" :  "wv-ent-trace-id-efc6dc25-2ac3-4e4b-8a2b-b3b63fda21cc"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.2799261489417404,
+	"path" :      "/enterprise/geopolitical/search/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.70",
+	"user" :      {
+	  "id" :   "712910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517636,
+	"req_id" :    "wv-ent-req-id-98ac1fa7-81ef-49e8-aaf1-bd7013007db7",
+	"trace_id" :  "wv-ent-trace-id-2887e675-4f2f-45ea-bb65-2d58792120e3"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.1175459580263123,
+	"path" :      "/enterprise/geopolitical/region/eurasia",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.78",
+	"user" :      {
+	  "id" :   "712910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517637,
+	"req_id" :    "wv-ent-req-id-086fa4a0-7b1f-47d5-b302-723b5360dd5f",
+	"trace_id" :  "wv-ent-trace-id-d6fd9f44-39c1-4da6-82ab-96a9a61c81a4"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.4081926129292697,
+	"path" :      "/enterprise/geopolitical/region/eurasia",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.79",
+	"user" :      {
+	  "id" :   "712910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517639,
+	"req_id" :    "wv-ent-req-id-5199a708-e709-4c31-8da7-8ab297820029",
+	"trace_id" :  "wv-ent-trace-id-549ee7f7-0759-4e3d-86bf-6408b285416b"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.3908320179907605,
+	"path" :      "/enterprise/geopolitical/region/eurasia",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.142",
+	"user" :      {
+	  "id" :   "712910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517639,
+	"req_id" :    "wv-ent-req-id-39c61fd2-b405-4177-a443-4b6b644a9724",
+	"trace_id" :  "wv-ent-trace-id-f8d1321f-aaf4-4eea-b1e8-8c79971db92f"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  4.932762366021052,
+	"path" :      "/enterprise/geopolitical/theme/science-and-technology",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.142",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517644,
+	"req_id" :    "wv-ent-req-id-db9e2e8c-5320-4910-916f-a4d81a620699",
+	"trace_id" :  "wv-ent-trace-id-8d9e154e-6110-49ee-809a-21e572612eee"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  4.83961422892753,
+	"path" :      "/enterprise/geopolitical/theme/science-and-technology",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.70",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517644,
+	"req_id" :    "wv-ent-req-id-d8b7d1b0-a6bd-42ce-b925-ed18d23e4c19",
+	"trace_id" :  "wv-ent-trace-id-6facde81-1052-4857-8b3b-66ace3955c04"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.5239773460198194,
+	"path" :      "/enterprise/geopolitical/theme/science-and-technology",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.79",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517648,
+	"req_id" :    "wv-ent-req-id-3964650e-64a7-44ed-81a3-80bc109cf0c2",
+	"trace_id" :  "wv-ent-trace-id-b814cbe7-d0f6-422a-8b28-f9363c718544"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  4.891323483083397,
+	"path" :      "/enterprise/geopolitical/forecast/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.142",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517649,
+	"req_id" :    "wv-ent-req-id-558b0e68-125c-4486-be77-869a39ea75f0",
+	"trace_id" :  "wv-ent-trace-id-033130d9-2dba-419f-b85b-8654e3ed1639"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  4.901864088955335,
+	"path" :      "/enterprise/geopolitical/forecast/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.78",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517653,
+	"req_id" :    "wv-ent-req-id-db7c0d87-988c-45c5-9454-6ee45246e222",
+	"trace_id" :  "wv-ent-trace-id-ad1797f5-46fa-447c-beea-ec1ff7c2ab78"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  4.037407657015137,
+	"path" :      "/enterprise/geopolitical/forecast/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517653,
+	"req_id" :    "wv-ent-req-id-4acdc926-7358-4bfd-84e7-682a65bc47f8",
+	"trace_id" :  "wv-ent-trace-id-ed0a8898-8b4b-415b-b057-db6ab148df17"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.475379367941059,
+	"path" :      "/enterprise/geopolitical/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.79",
+	"user" :      {
+	  "id" :   "723910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517655,
+	"req_id" :    "wv-ent-req-id-cb7faafe-4b9b-40c4-b39e-1e07655e36aa",
+	"trace_id" :  "wv-ent-trace-id-d2f5f281-6c96-4c53-bb92-244700b71255"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.780174467014149,
+	"path" :      "/enterprise/geopolitical/forecastquestions/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.78",
+	"user" :      {
+	  "id" :   "723910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517657,
+	"req_id" :    "wv-ent-req-id-153f2970-89aa-4c14-9a5f-de2febc31aaf",
+	"trace_id" :  "wv-ent-trace-id-5a180f90-e632-419b-8a1e-264f467435e8"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.5497979300562292,
+	"path" :      "/enterprise/geopolitical/forecastquestions/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517659,
+	"req_id" :    "wv-ent-req-id-60c0c08d-9841-4e4e-a413-6b47de49371f",
+	"trace_id" :  "wv-ent-trace-id-383f47d5-7a44-4299-b3cf-683da2680aca"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.546043520909734,
+	"path" :      "/enterprise/geopolitical/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "723910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517660,
+	"req_id" :    "wv-ent-req-id-0575fba4-6c81-47d6-99ee-667753928206",
+	"trace_id" :  "wv-ent-trace-id-8a03d43b-2736-44b0-b9e3-5db4cc60b342"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  0.9930527340620756,
+	"path" :      "/enterprise/geopolitical/situation-report/japan-government-declare-covid-19-emergencies-tokyo-osaka",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.79",
+	"user" :      {
+	  "id" :   "723910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517660,
+	"req_id" :    "wv-ent-req-id-3ee741a5-c313-4e29-899e-6912ac6356c0",
+	"trace_id" :  "wv-ent-trace-id-b0c39a1f-2e6d-41d4-9ac7-0e00d88006cb"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.4284463620278984,
+	"path" :      "/enterprise/geopolitical/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.78",
+	"user" :      {
+	  "id" :   "723910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517662,
+	"req_id" :    "wv-ent-req-id-5b686418-443f-4665-864e-bd0e137ec8be",
+	"trace_id" :  "wv-ent-trace-id-b3d0e8b6-cac1-4a72-811b-9df70451da8e"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.7249825849430636,
+	"path" :      "/enterprise/geopolitical/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "723910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517663,
+	"req_id" :    "wv-ent-req-id-a8233467-8cbd-4478-8b25-96192f4ceebd",
+	"trace_id" :  "wv-ent-trace-id-f632cbea-6414-4938-b257-1ced332cf558"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.065070522017777,
+	"path" :      "/enterprise/geopolitical/forecastquestions/detail/333790/333793",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "723910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517666,
+	"req_id" :    "wv-ent-req-id-8cd344c5-16f5-4a5e-9ae1-de7810a33989",
+	"trace_id" :  "wv-ent-trace-id-aef17d85-fd2f-4cea-8c40-be200c040bb7"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.669421594007872,
+	"path" :      "/enterprise/geopolitical/forecastquestions/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "723910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517666,
+	"req_id" :    "wv-ent-req-id-8d28accc-eba3-4b24-a672-d9a795bdc9fe",
+	"trace_id" :  "wv-ent-trace-id-4ec8b6ce-3e71-42c8-98d2-d1123e0955c0"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.4207462589256465,
+	"path" :      "/enterprise/geopolitical/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "723910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517668,
+	"req_id" :    "wv-ent-req-id-98a2b123-969f-4e7e-94b7-60b8d09b2ebf",
+	"trace_id" :  "wv-ent-trace-id-72769eb3-fdfe-4017-8bce-0822d4b44098"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.0025187690043822,
+	"path" :      "/enterprise/geopolitical/situation-report/japan-government-declare-covid-19-emergencies-tokyo-osaka",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "725910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517669,
+	"req_id" :    "wv-ent-req-id-a4551199-d9c9-442c-a636-039650ebebe6",
+	"trace_id" :  "wv-ent-trace-id-104a59b0-be54-4b5e-87b4-35f265942dde"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.883766327984631,
+	"path" :      "/enterprise/geopolitical/forecastquestions/detail/333790/333793",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "725910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517669,
+	"req_id" :    "wv-ent-req-id-381619cb-8a89-4359-aa5c-579febf1eb0e",
+	"trace_id" :  "wv-ent-trace-id-60572603-9674-480b-ae94-ae8b73f0f19f"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  0.9552161699393764,
+	"path" :      "/enterprise/geopolitical/situation-report/japan-government-declare-covid-19-emergencies-tokyo-osaka",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "725910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517670,
+	"req_id" :    "wv-ent-req-id-a8286cef-8eec-4124-b907-885c031f62c7",
+	"trace_id" :  "wv-ent-trace-id-f5e504fd-7d16-4906-b83f-2339754d6d09"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  0.8778671890031546,
+	"path" :      "/enterprise/geopolitical/situation-report/japan-government-declare-covid-19-emergencies-tokyo-osaka",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "725910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517671,
+	"req_id" :    "wv-ent-req-id-13681b18-bf6c-4cee-984d-b1519c3aa27f",
+	"trace_id" :  "wv-ent-trace-id-8c6bffc4-79b0-40de-8efc-0a1c366eaf65"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.574216075008735,
+	"path" :      "/enterprise/geopolitical/region/europe",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.78",
+	"user" :      {
+	  "id" :   "725910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517673,
+	"req_id" :    "wv-ent-req-id-3aa6f61a-5e21-4e89-9800-dca2b78b78a6",
+	"trace_id" :  "wv-ent-trace-id-091fdb56-2977-4fcc-8aa2-9c9ff591e557"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.0057051230687648,
+	"path" :      "/enterprise/geopolitical/situation-report/japan-government-declare-covid-19-emergencies-tokyo-osaka",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "725910",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517674,
+	"req_id" :    "wv-ent-req-id-ebac6c6f-decb-4f02-a055-fdfb7464c688",
+	"trace_id" :  "wv-ent-trace-id-bc1c8131-b861-4fd7-af8b-d8aaac5f86b7"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  4.43342696595937,
+	"path" :      "/enterprise/geopolitical/country-risk/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517675,
+	"req_id" :    "wv-ent-req-id-cd51733d-6785-4454-8057-ac6f66a68207",
+	"trace_id" :  "wv-ent-trace-id-74bbc6d0-f897-4f36-b32d-702ac27dc227"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.4725890959380195,
+	"path" :      "/enterprise/geopolitical/country-risk/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517675,
+	"req_id" :    "wv-ent-req-id-129d103e-f614-4a52-a9f6-845e8fa31d8e",
+	"trace_id" :  "wv-ent-trace-id-4de0f00e-be32-4d72-a275-381856bc54ed"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.445508930948563,
+	"path" :      "/enterprise/geopolitical/region/europe",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517678,
+	"req_id" :    "wv-ent-req-id-62e97d8e-f85a-4e8f-b4d0-9ff284d9d3a6",
+	"trace_id" :  "wv-ent-trace-id-f315c33c-4b53-4498-98ce-23e72dbf1cfa"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.84804545994848,
+	"path" :      "/enterprise/geopolitical/forecastquestions/detail/333790/333793",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517678,
+	"req_id" :    "wv-ent-req-id-d8f1e8fa-c344-41b8-8d10-8b9aa54aaa46",
+	"trace_id" :  "wv-ent-trace-id-08b0b3bf-ab57-4cd2-9168-5d8200f8c37b"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.7185678289970383,
+	"path" :      "/enterprise/geopolitical/region/europe",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517681,
+	"req_id" :    "wv-ent-req-id-1334c8ac-621c-4aec-9c09-b25ebe87c578",
+	"trace_id" :  "wv-ent-trace-id-2a7b344e-c1f8-4310-88d9-d0956a197861"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.5366561569971964,
+	"path" :      "/enterprise/geopolitical/region/europe",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517681,
+	"req_id" :    "wv-ent-req-id-8e9d94d8-70e2-4da7-885d-be73ab482616",
+	"trace_id" :  "wv-ent-trace-id-ccf802b1-2ef2-4267-9265-1f41f4714a45"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.604703410062939,
+	"path" :      "/enterprise/geopolitical/country-risk/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517682,
+	"req_id" :    "wv-ent-req-id-cf3af57f-facb-4c83-b8bd-08fef7eed0d7",
+	"trace_id" :  "wv-ent-trace-id-63acf580-7c55-4b55-8024-f43581eed156"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.3869487539632246,
+	"path" :      "/enterprise/geopolitical/region/europe",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.78",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517683,
+	"req_id" :    "wv-ent-req-id-997e7454-5b6a-4c94-ae24-4d3023f31fa5",
+	"trace_id" :  "wv-ent-trace-id-7f58fa15-6077-4c90-8413-7ea955440219"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.3488937390502542,
+	"path" :      "/enterprise/geopolitical/theme/economics",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517685,
+	"req_id" :    "wv-ent-req-id-e9c02c3f-6b75-4e5c-8d56-e5ca746147e1",
+	"trace_id" :  "wv-ent-trace-id-04d0b6fe-891d-4799-a365-b2493285f7a0"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.345273272949271,
+	"path" :      "/enterprise/geopolitical/theme/economics",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517686,
+	"req_id" :    "wv-ent-req-id-c5896f1d-81c3-43bd-a07f-a409c831cd04",
+	"trace_id" :  "wv-ent-trace-id-493e9079-3d44-4530-bd77-53f53f764089"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.0064247350674123,
+	"path" :      "/enterprise/geopolitical/forecast/detail/332129",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517686,
+	"req_id" :    "wv-ent-req-id-d5f764ad-b2b8-4fc4-92c1-0134efb37789",
+	"trace_id" :  "wv-ent-trace-id-0efc663c-8103-4302-8505-de970c8e2c3d"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.394038768019527,
+	"path" :      "/enterprise/geopolitical/theme/economics",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517688,
+	"req_id" :    "wv-ent-req-id-223480e8-1f35-4cb9-b6db-5a5ca98a4bf7",
+	"trace_id" :  "wv-ent-trace-id-c9fbd306-bbc0-4f2d-87f1-f7fa23fd10ed"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.9306600659620017,
+	"path" :      "/enterprise/geopolitical/forecast/detail/332129",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517689,
+	"req_id" :    "wv-ent-req-id-8c440893-9ea5-4786-b47b-74a4673978dd",
+	"trace_id" :  "wv-ent-trace-id-136cf755-fa93-4972-ba8d-36d1e160e520"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.005853327922523,
+	"path" :      "/enterprise/geopolitical/forecast/detail/332129",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517690,
+	"req_id" :    "wv-ent-req-id-e614448b-001a-4e16-8ab2-88a70fdc3032",
+	"trace_id" :  "wv-ent-trace-id-db3cca09-c6d8-4d44-8804-2ff41c3b46b5"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.4820639559766278,
+	"path" :      "/enterprise/geopolitical/theme/economics",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517691,
+	"req_id" :    "wv-ent-req-id-1cc554c1-cd11-4753-98b1-5959cd2a6421",
+	"trace_id" :  "wv-ent-trace-id-c1e0bfbd-e20c-4438-97f7-5ef9e796bdea"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.784809822915122,
+	"path" :      "/enterprise/geopolitical/country-risk/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517692,
+	"req_id" :    "wv-ent-req-id-1c762b32-00b5-4f6a-beb7-c59441f361bc",
+	"trace_id" :  "wv-ent-trace-id-464b83a7-0581-4c28-a452-422fd92b2e66"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.300813510082662,
+	"path" :      "/enterprise/geopolitical/theme/economics",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517693,
+	"req_id" :    "wv-ent-req-id-9015bbb9-5c5b-4f13-9ff0-4dfbed4844c4",
+	"trace_id" :  "wv-ent-trace-id-8f8df8c0-8c28-4d2b-aacd-da87d4b6c151"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.453983515035361,
+	"path" :      "/enterprise/geopolitical/country-risk/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.70",
+	"user" :      {
+	  "id" :   "712819",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517694,
+	"req_id" :    "wv-ent-req-id-2fde7d71-aef5-49c4-9505-49277e765076",
+	"trace_id" :  "wv-ent-trace-id-bf404965-e69b-4058-afb1-b0076c72ba39"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.0991739500313997,
+	"path" :      "/enterprise/geopolitical/forecast/detail/332129",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712819",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517694,
+	"req_id" :    "wv-ent-req-id-b3c7fd1a-36db-4d4a-b9ca-5141a67539de",
+	"trace_id" :  "wv-ent-trace-id-f6ff4a6f-e1b5-4d4c-bea3-70dae45dab29"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.0034789830679074,
+	"path" :      "/enterprise/geopolitical/forecast/detail/332129",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.98",
+	"user" :      {
+	  "id" :   "712819",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517695,
+	"req_id" :    "wv-ent-req-id-27a1f0e0-339f-4d2e-a4db-942d547ae21c",
+	"trace_id" :  "wv-ent-trace-id-0fc30fed-b302-481b-a2ae-45007ad9a1c5"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.5097211659885943,
+	"path" :      "/enterprise/geopolitical/country-risk/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.70",
+	"user" :      {
+	  "id" :   "712819",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517697,
+	"req_id" :    "wv-ent-req-id-0ba6b4f6-4c03-4c9c-81c5-103690a43a25",
+	"trace_id" :  "wv-ent-trace-id-b5e93eec-ef0e-48d6-9183-beecd2c58fa9"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.5239227190613747,
+	"path" :      "/enterprise/geopolitical/country-risk/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517698,
+	"req_id" :    "wv-ent-req-id-dcb1f6ff-7c47-4665-bcb4-bb9a1b99ab9f",
+	"trace_id" :  "wv-ent-trace-id-125f98a0-35db-410f-a5c8-ba6ac3621509"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.3884778259089217,
+	"path" :      "/enterprise/geopolitical/forecastquestions/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.70",
+	"user" :      {
+	  "id" :   "712819",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517700,
+	"req_id" :    "wv-ent-req-id-2f24e73b-d8c1-431e-8e92-4d6415feaee9",
+	"trace_id" :  "wv-ent-trace-id-5c90723d-c1c7-435e-b87a-e0c05a392ad2"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  1.396714414935559,
+	"path" :      "/enterprise/geopolitical/country-risk/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.78",
+	"user" :      {
+	  "id" :   "712819",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517702,
+	"req_id" :    "wv-ent-req-id-f216ca62-267e-4227-9c31-e15d96c2eefa",
+	"trace_id" :  "wv-ent-trace-id-35b26a92-e0cd-4f78-b4fb-f739ab01d83b"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.447214490035549,
+	"path" :      "/enterprise/geopolitical/forecastquestions/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.79",
+	"user" :      {
+	  "id" :   "712807",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517703,
+	"req_id" :    "wv-ent-req-id-ecfebd3b-de67-453f-8def-d7a5700e52f1",
+	"trace_id" :  "wv-ent-trace-id-68793103-952b-41fb-8680-20d971aae2a5"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.5864073960110545,
+	"path" :      "/enterprise/geopolitical/forecastquestions/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712819",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517705,
+	"req_id" :    "wv-ent-req-id-35b94a41-d4c1-412b-a589-71e006df1ce4",
+	"trace_id" :  "wv-ent-trace-id-46b15314-3d90-4dbe-ae47-d6264dce3cb9"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.6676892020041123,
+	"path" :      "/enterprise/geopolitical/forecastquestions/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "712819",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517708,
+	"req_id" :    "wv-ent-req-id-1f863dda-d8f2-406c-84a9-a88243e61461",
+	"trace_id" :  "wv-ent-trace-id-523627b9-d302-417c-87b2-35d093242f7b"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  3.69924378907308,
+	"path" :      "/enterprise/geopolitical/forecastquestions/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"ip" :        "34.206.209.121, 70.132.60.80",
+	"user" :      {
+	  "id" :   "708210",
+	  "uuid" : "3de904dc-ddda-4943-b826-fb693ed8ee46",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622517709,
+	"req_id" :    "wv-ent-req-id-c52a1474-253e-417a-92d5-defb81161bef",
+	"trace_id" :  "wv-ent-trace-id-3a61c0eb-a8dc-4c76-8d1d-a419dbd742a2"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  4.517540942062624,
+	"path" :      "/enterprise/geopolitical/region/sub-saharan-africa",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",
+	"ip" :        "2603:8000:8c01:dde:d19e:3437:a519:ca10, 130.176.4.70",
+	"user" :      {
+	  "id" :   "708210",
+	  "uuid" : "22076110-6f8b-4a8c-a00d-eba51267715e",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622524983,
+	"req_id" :    "wv-ent-req-id-0345a9f5-14b7-4fe8-aece-c4038eabac1e",
+	"trace_id" :  "wv-ent-trace-id-20a8a576-85b0-4551-b61c-99cd6626820d"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.54787672997918,
+	"path" :      "/enterprise/geopolitical/region/sub-saharan-africa",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",
+	"ip" :        "2603:8000:8c01:dde:d19e:3437:a519:ca10, 130.176.4.70",
+	"user" :      {
+	  "id" :   "708210",
+	  "uuid" : "22076110-6f8b-4a8c-a00d-eba51267715e",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622524998,
+	"req_id" :    "wv-ent-req-id-7e55128c-ac53-40d3-a19e-2c3c992913bd",
+	"trace_id" :  "wv-ent-trace-id-4ff70884-9246-4f1d-8beb-124447c46ddb"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  0.9358140089316294,
+	"path" :      "/enterprise/geopolitical/user/preference/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",
+	"ip" :        "2603:8000:8c01:dde:d19e:3437:a519:ca10, 130.176.4.70",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "22076110-6f8b-4a8c-a00d-eba51267715e",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622525017,
+	"req_id" :    "wv-ent-req-id-5c4c1f55-1310-4610-98a8-64e0d5af2bbc",
+	"trace_id" :  "wv-ent-trace-id-5b8de362-b26b-4881-8276-ed3739b370d8"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  0.5825790609233081,
+	"path" :      "/enterprise/geopolitical/user/profile/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",
+	"ip" :        "2603:8000:8c01:dde:d19e:3437:a519:ca10, 130.176.4.89",
+	"user" :      {
+	  "id" :   "708210",
+	  "uuid" : "22076110-6f8b-4a8c-a00d-eba51267715e",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622525044,
+	"req_id" :    "wv-ent-req-id-67c28a65-65ea-4679-b50d-7dfc8e35d43a",
+	"trace_id" :  "wv-ent-trace-id-a5ef0637-c8db-413b-999f-d333f6e41e0a"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  2.3608193369582295,
+	"path" :      "/enterprise/geopolitical/theme/politics",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",
+	"ip" :        "2603:8000:8c01:dde:d19e:3437:a519:ca10, 130.176.4.70",
+	"user" :      {
+	  "id" :   "708210",
+	  "uuid" : "22076110-6f8b-4a8c-a00d-eba51267715e",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622525062,
+	"req_id" :    "wv-ent-req-id-b341467c-b063-4894-83b4-02d1c67cc598",
+	"trace_id" :  "wv-ent-trace-id-739ae32d-72e6-459a-b0f5-213d095c7218"
+  },
+  {
+	"msg" :       "access-log",
+	"duration" :  0.4091331879608333,
+	"path" :      "/enterprise/geopolitical/components/content/",
+	"referer" :   "",
+	"user_agent" :"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",
+	"ip" :        "2603:8000:8c01:dde:d19e:3437:a519:ca10, 130.176.4.89",
+	"user" :      {
+	  "id" :   "713910",
+	  "uuid" : "22076110-6f8b-4a8c-a00d-eba51267715e",
+	  "email" :"",
+	  "orgid" :""
+	},
+	"loggername" :"rane_ige",
+	"level" :     "INFO",
+	"timestamp" : 1622525084,
+	"req_id" :    "wv-ent-req-id-ecbaf802-0241-41f8-91a5-e714d26be6a1",
+	"trace_id" :  "wv-ent-trace-id-739ae32d-72e6-459a-b0f5-213d095c7218"
+  }
+]
