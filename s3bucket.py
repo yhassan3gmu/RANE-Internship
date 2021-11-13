@@ -5,6 +5,10 @@ from datetime import datetime, timedelta
 
 class Bucket:
     def __init__(self, full_path_to_file=None):
+        '''
+        accesses config.ini which contains the region name, AWS access key ID, and the AWS Secret Access Key ID under the AWS_CONFIG category.
+        I used the config.ini because I can't share this information with anyone due to work.
+        '''
         try:
             self.config = configparser.ConfigParser()
             self.config.read(full_path_to_file)
@@ -48,9 +52,9 @@ class Bucket:
 
     def create_folder(self, new_bucket):
         '''
-        create a new folder
-        :param new_bucket:
-        :return: New bucket and folder
+        creates a new folder
+        :param new_bucket: bucket created from create_bucket function
+        :return: New folder in bucket
         '''
         if self.client is None:
             return None
@@ -70,7 +74,7 @@ class Bucket:
 
     def filter_events(self, startTime, endTime):
         '''
-        filter log events
+        filters the log events from AWS CloudWatch
         :param startTime: startTime
         :param endTime: endTime
         :return: None
@@ -98,6 +102,14 @@ class Bucket:
                     break
 
     def create_json(self, startTime, endTime, bucket, folder):
+        '''
+        creates a new json file with the filtered log events
+        :param startTime: startTime
+        :param endTime: endTime
+        :param bucket: bucket previously created
+        :param folder: folder previously created
+        :return: None
+        '''
         if self.client is None:
             return None
         else:
