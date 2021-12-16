@@ -137,7 +137,7 @@ class Bucket:
 
 
                 #this will concatenate the logs into a newline
-
+            #Key = '{}/{}/{}/'.format(year,month,day)
             self.client.upload_file(filename, bucket.name, folder.key + filename)
 
             #return filename
