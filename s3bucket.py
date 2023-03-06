@@ -63,7 +63,7 @@ class Bucket:
 
     def create_folder(self, new_bucket):
         '''
-        creates a new folder
+        creates a new folder with the format bucket-name/year/month/day
         :param new_bucket: bucket created from create_bucket function
         :return: New folder in bucket
         '''
@@ -114,7 +114,7 @@ class Bucket:
 
     def create_json(self, startTime, endTime, bucket, folder):
         '''
-        creates a new json file with the filtered log events
+        creates a new json file with the filtered log events in the format hour-minute.json
         :param startTime: startTime
         :param endTime: endTime
         :param bucket: bucket previously created
