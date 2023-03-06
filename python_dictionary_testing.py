@@ -5,6 +5,12 @@ import builtins
 from unittest.mock import patch
 #from python_dictionary_manipulation6 import user_id
 from hamcrest import *
+
+'''
+Found a way to test nested unordered dictionaries with unordered lists by converting each list in each dictionary to a set.
+'''
+
+
 #https://stackoverflow.com/questions/14491164/python-unittest-asserting-dictionary-with-lists
 #https://docs.python.org/3/library/unittest.html
 #https://stackoverflow.com/questions/8866652/determine-if-2-lists-have-the-same-elements-regardless-of-order
