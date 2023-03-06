@@ -1,7 +1,7 @@
 import json
 from datetime import datetime
 '''
-This file Uses Python dictionary manipulation for dictionaries in a JSON file, which contains user IDs, URLs, date, time spent on website. Displayed features such as
+This file Uses Python dictionary manipulation for dictionaries in a JSON file, which contains user IDs, URLs, date, time spent on website. The results will be
     ●	Unique URLs visited by each user. 
     ●	Unique URLs visited by each user where user ID is inputted.
     ●	Unique URLs visited on a certain date for each user. 
