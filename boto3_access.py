@@ -5,6 +5,10 @@ import configparser
 from datetime import datetime, timedelta
 import time
 
+'''
+This file grabs CloudWatch data by using the information in a config.ini file to access the data.
+'''
+
 class CloudWatchLogs:
     def __init__(self, full_path_to_file=None):
         try:
