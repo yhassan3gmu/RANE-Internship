@@ -7,7 +7,7 @@ from unittest.mock import patch
 from hamcrest import *
 
 '''
-Found a way to test nested unordered dictionaries with unordered lists by converting each list in each dictionary to a set.
+Found a way to test nested unordered dictionaries with unordered lists by converting each list in each dictionary to a set. See the test methods.
 '''
 
 
@@ -49,6 +49,11 @@ class TestDictionaryManipulator(unittest.TestCase):
                                     '/enterprise/geopolitical/region/sub-saharan-africa']}
         self.sample_dictionary_date = {'712910': {'31-05-21': ['/enterprise/geopolitical/region/eurasia', '/enterprise/geopolitical/search/', '/enterprise/geopolitical/']}, '713910': {'31-05-21': ['/enterprise/geopolitical/forecastquestions/', '/enterprise/geopolitical/search/', '/enterprise/geopolitical/forecast/', '/enterprise/geopolitical/theme/science-and-technology'], '01-06-21': ['/enterprise/geopolitical/user/preference/', '/enterprise/geopolitical/components/content/']}, '712807': {'31-05-21': ['/enterprise/geopolitical/theme/economics', '/enterprise/geopolitical/forecastquestions/detail/333790/333793', '/enterprise/geopolitical/forecast/detail/332129', '/enterprise/geopolitical/forecastquestions/', '/enterprise/geopolitical/country-risk/', '/enterprise/geopolitical/region/europe']}, '723910': {'31-05-21': ['/enterprise/geopolitical/forecastquestions/', '/enterprise/geopolitical/situation-report/japan-government-declare-covid-19-emergencies-tokyo-osaka', '/enterprise/geopolitical/forecastquestions/detail/333790/333793', '/enterprise/geopolitical/']}, '725910': {'31-05-21': ['/enterprise/geopolitical/situation-report/japan-government-declare-covid-19-emergencies-tokyo-osaka', '/enterprise/geopolitical/forecastquestions/detail/333790/333793', '/enterprise/geopolitical/region/europe']}, '712819': {'31-05-21': ['/enterprise/geopolitical/forecast/detail/332129', '/enterprise/geopolitical/country-risk/', '/enterprise/geopolitical/forecastquestions/']}, '708210': {'31-05-21': [], '01-06-21': ['/enterprise/geopolitical/region/sub-saharan-africa', '/enterprise/geopolitical/theme/politics', '/enterprise/geopolitical/user/profile/']}}
         self.sample_dictionary_duration = {'/enterprise/geopolitical/': 2.716975258983439, '/enterprise/geopolitical/search/': 1.296049644666103, '/enterprise/geopolitical/region/eurasia': 2.6388568629821143, '/enterprise/geopolitical/theme/science-and-technology': 4.432117980322801, '/enterprise/geopolitical/forecast/': 4.610198409684624, '/enterprise/geopolitical/forecastquestions/': 3.598553336763871, '/enterprise/geopolitical/situation-report/japan-government-declare-covid-19-emergencies-tokyo-osaka': 0.9668719970155507, '/enterprise/geopolitical/forecastquestions/detail/333790/333793': 2.9322941033169627, '/enterprise/geopolitical/region/europe': 2.7323795491829515, '/enterprise/geopolitical/country-risk/': 1.8974838887370424, '/enterprise/geopolitical/theme/economics': 2.3742166492156684, '/enterprise/geopolitical/forecast/detail/332129': 1.4091182124102488, '/enterprise/geopolitical/region/sub-saharan-africa': 3.532708836020902, '/enterprise/geopolitical/user/preference/': 0.9358140089316294, '/enterprise/geopolitical/user/profile/': 0.5825790609233081, '/enterprise/geopolitical/theme/politics': 2.3608193369582295, '/enterprise/geopolitical/components/content/': 0.4091331879608333}
+    
+    '''
+    We can convert each list in each dictionary to a set
+    '''
+    
     def test_get_unique_urls_for_users(self):
         #self.assert_that(self.dm.get_unique_urls_for_users(), has_entries(self.sample_dictionary))
         #self.assertDictEqual(self.dm.get_unique_urls_for_users(), self.sample_dictionary)
