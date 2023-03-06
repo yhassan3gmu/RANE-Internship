@@ -1,5 +1,16 @@
 import json
 from datetime import datetime
+'''
+This file uses boto3 to create Simple Storage Service (S3) objects (multiple folder names with JSON file name), 
+upload filtered Amazon Web Services (AWS) CloudWatch log data to those objects, and then insert these objects to an AWS S3 bucket.
+Object names follow a date format, bucket-name/year/month/day/hour-minute.json. New objects created will not overwrite or replace any previous objects or folders. 
+Log data starts collecting 7 days before the run date of my program. Python program filters and collects logs for every half-hour interval. 
+If the process takes more than a minute, whatever data isn’t added in the first JSON file goes to the next JSON file.
+
+We will also use SQL in AWS Athena to query the JSON files.
+▪	SQL will split columns with Python dictionaries into smaller columns.
+
+'''
 
 class DictionaryManipulator:
     def __init__(self, full_path_to_file = None):
