@@ -132,7 +132,7 @@ class Bucket:
             filename = '{}-{}.json'.format(hour, minute)
 
             for event in log_events:
-                #event["message"] contains the information that we need, so we only select that
+                #json.loads converts JSON string to a dictionary and loads it to event["message"]
                 event["message"] = json.loads(event["message"])
                 access_logs.append(event)
 
